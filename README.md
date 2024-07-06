@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, AWS, Azure**
 
-💬 Plan large-scale events: **[F-Talent](https://www.facebook.com/photo/?fbid=2322481827908244&set=a.125214634301652)**
+💬 Plan large-scale events: **[F-Talent](https://www.facebook.com/photo?fbid=2353496501473443&set=a.125214634301652), [International Women's Day](https://www.facebook.com/cocsaigonfuhcm/videos/951292362907453), [Final Gala](https://www.facebook.com/photo/?fbid=667708948829083&set=a.510843517848961)**
 
 ⚡ Take part in events during my leisure time
 

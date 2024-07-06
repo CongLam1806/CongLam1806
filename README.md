@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CongLam1806.CongLam1806" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+everyone!+👋;+I'm+Tran+Cong+Lam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+world!+🌏;+I'm+Tran+Cong+Lam!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from VietNam 🇻🇳</h3>
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     
-#### 📋 Languages
+#### 🏄‍♂️ Languages
 
 </div>
 <div align="center">
@@ -49,7 +49,7 @@
 
 <div align="center">
     
-#### 📚 Frameworks, Platforms 
+#### 🧩 Frameworks, Platforms 
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -80,16 +80,17 @@
 
 <div align="center">
     
-#### 🕓 Version Control
+#### 📂 Version Control
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sourcetree-%2300599C.svg?&style=for-the-badge&logo=sourcetree&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div>
 <div align="center">
     
-#### 🥅 Other
+#### ➕ Other
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -99,4 +100,14 @@
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CongLam1806/CongLam1806/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <hr/>
